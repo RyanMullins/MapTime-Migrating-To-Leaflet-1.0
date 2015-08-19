@@ -5,3 +5,11 @@ html, body, #map {
   height: 100%;
   font-family: Helvetica, sans-serif;
 }
+
+#zoomLevel {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  width: 250px;
+  box-shadow: 0 0 5px 10px #000;
+}
