@@ -1,0 +1,27 @@
+{
+  "name": "maptime-migrating-to-leaflet-v1",
+  "version": "1.0.0",
+  "description": "Tutorial showing the migration path from Leaflet v0.7.3 to v1.0 (beta)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RyanMullins/MapTime-Migrating-To-Leaflet-1.0.git"
+  },
+  "keywords": [
+    "leaflet",
+    "maptime"
+  ],
+  "author": "Ryan S Mullins <ryan@ryanmullins.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanMullins/MapTime-Migrating-To-Leaflet-1.0/issues"
+  },
+  "homepage": "https://github.com/RyanMullins/MapTime-Migrating-To-Leaflet-1.0#readme",
+  "dependencies": {
+    "finalhandler": "^0.4.0",
+    "serve-static": "^1.10.0"
+  }
+}
